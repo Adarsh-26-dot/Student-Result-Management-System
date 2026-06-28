@@ -29,5 +29,23 @@ A menu-driven Java application to manage student records using Object-Oriented P
 2. Run `Main.java`.
 3. Follow the on-screen menu.
 
+## Screenshots
+
+### Main Menu
+
+![Main Menu](images/menu.png)
+
+### View Students
+
+![View Students](images/view_students.png)
+
+### Rank List
+
+![Rank List](images/rank_list.png)
+
+### Class Statistics
+
+![Class Statistics](images/class_statistics.png)
+
 ## Author
 Shiva Adarsh
